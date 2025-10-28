@@ -241,37 +241,3 @@ public class Main {
     }
 }
 
-//        while (true) {
-    //            try {
-    //                System.out.println("\n==== INVENTORY MENU ====");
-    //                System.out.println("1. Add user");
-    //                System.out.println("2. get user by name");
-    //                System.out.println("3. remove user");
-    //                System.out.println("4. Exit");
-    //                System.out.print("Enter choice: ");
-    //                int choice = sc.nextInt();
-    //                switch (choice) {
-    //                    case 1:
-    //                        manager.addUser();
-    //                        break;
-    //                    case 2:
-    //                        manager.getUserByUsername();
-    //                        break;
-    //                    case 3:
-    //                        manager.removeUser();
-    //                        break;
-    //                    case 4:
-    //                        System.out.println("Exiting...");
-    //                        return;
-    //                    default:
-    //                        System.out.println("Invalid choice");
-    //                }
-    //            } catch (InputMismatchException e) {
-    //                System.out.println("invalid input");
-    //                sc.nextLine();
-    //            } catch (Exception e) {
-    //                System.out.println("exception" + e.getMessage());
-    //                sc.nextLine();
-    //            }
-    //        }
-
